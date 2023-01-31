@@ -19,4 +19,22 @@ sin(pi)   # sine of pi
 sin(3.14) # sine of pi
 
 
+# exercise 2
+# 1
+sqrt(144) / 27^(1/3)
+# 2
+round((abs(356 - 366) * pi), 2)
+
+# Exercise 3
+
+# Fernando Caballero 31/01/23
+rm(list=ls())
+
+setwd("C:/Users/fernando.caballero/Desktop/MUNDOS_E/intro R")
+getwd()
+
+
+
+
+
 
